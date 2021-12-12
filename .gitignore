@@ -1,0 +1,9 @@
+# Project exclude paths
+/assembly-line/target/
+/health-statistics/target/
+/low-power-embedded-game/target/
+/magazine-cutout/target/
+/role-playing-game/target/
+/rpn-calculator/target/
+/semi-structured-logs/target/
+/short-fibonacci/target/
